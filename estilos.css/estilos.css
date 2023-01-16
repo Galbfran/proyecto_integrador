@@ -85,6 +85,7 @@ footer{
     align-items: center;
     justify-content: center;
     color: white;
+    
 }
 
 .fiscal{
@@ -97,19 +98,26 @@ footer{
 .contacto{
     display: row;
     color: white;
+    width: 350px;
 }
 
 .trabajo{
     display: row;
     color: white;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
 }
 
 .trabajo button{
     color: white;
+    padding: 3%;
+   
 }
 
 .contacto button{
     color: white;
+    padding: 3%;
 }
 
 .trabajo a{
@@ -134,4 +142,16 @@ footer{
 .inicioCompra button{
     background-color: #fd611a;
     color: white;
+}
+
+.fiscal img{
+    width: 100%;
+}
+
+.inicio{
+    padding: 5%;
+}
+
+.redes{
+    width: 350px;
 }
