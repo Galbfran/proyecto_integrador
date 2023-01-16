@@ -1,0 +1,137 @@
+*{
+    margin: 0%;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.imagenSuperior{
+    background-color: #fd611a;
+}
+
+.contenedorCabeza{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+button{
+    background-color: #fd611a;
+    border-radius: 5px;
+}
+
+nav{
+    background-color: #fd611a;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-style: Montserrat !important;
+    text-align: center;
+    
+    
+    
+}
+
+.buscadorCompra{
+    width: 180px;
+}
+
+.inicioCompra{
+    width: 180px;
+}
+
+.link{
+    display: flex;
+    margin: 14px;
+    margin-bottom: 1px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+h2{
+    text-decoration-line: underline;
+}
+
+.contCartas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.card-body{
+    display: row;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    background-color: #fd611a;
+    color: white;
+}
+
+.piePagina{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.fiscal{
+    display: flex;
+    width: 50px;
+    color: white;
+    
+}
+
+.contacto{
+    display: row;
+    color: white;
+}
+
+.trabajo{
+    display: row;
+    color: white;
+}
+
+.trabajo button{
+    color: white;
+}
+
+.contacto button{
+    color: white;
+}
+
+.trabajo a{
+    color: white;
+}
+
+.redes button{
+    background-color: white;
+    color: #fd611a;
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+    border: 50px;
+
+}
+
+.redes i{
+    width: 45px;
+    height: 45px;
+}
+
+.inicioCompra button{
+    background-color: #fd611a;
+    color: white;
+}
